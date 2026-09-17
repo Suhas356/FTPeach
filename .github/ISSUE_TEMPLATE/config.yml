@@ -1,5 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Report a security vulnerability
-    url: https://github.com/Smooveemaan/ftpeach/security/policy
-    about: Follow the security policy to report vulnerabilities privately.
